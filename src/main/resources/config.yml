@@ -1,0 +1,16 @@
+http:
+  port: 8089
+database:
+  host: 127.0.0.1
+  name: vertx_demo
+  user: postgres
+  password: p
+  port: 5432
+hikari:
+  jdbcUrl: jdbc:postgresql://127.0.0.1:5432/vertx_demo
+  username: postgres
+  password: p
+  connectionTimeout: 30000  # 30s
+  idleTimeout: 600000  # 10m
+  maxLifetime: 600000
+  maximumPoolSize: 15
