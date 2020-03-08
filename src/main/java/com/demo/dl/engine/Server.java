@@ -7,7 +7,7 @@
 // ============================================================================
 package com.demo.dl.engine;
 
-import com.demo.dl.web.resource.DemoResource;
+import com.demo.dl.resource.DemoResource;
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.Promise;
 import io.vertx.core.http.HttpServer;

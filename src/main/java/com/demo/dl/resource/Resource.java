@@ -5,7 +5,7 @@
 // CHANGE LOG
 // 2.0.27 : 2020-02-15, derrick, creation
 // ============================================================================
-package com.demo.dl.web.resource;
+package com.demo.dl.resource;
 
 import io.vertx.ext.web.Router;
 
