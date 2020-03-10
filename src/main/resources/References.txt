@@ -1,0 +1,12 @@
+https://github.com/eclipse-vertx/vertx-sql-client/issues/353
+https://github.com/socketio/socket.io/issues/2297
+https://www.jdon.com/50912
+https://www.cnblogs.com/heqiyoujing/p/9746156.html
+https://blog.csdn.net/z69183787/article/details/80591363
+https://blog.csdn.net/king_kgh/article/details/80848571
+https://cloud.tencent.com/developer/article/1149056
+https://segmentfault.com/a/1190000021036621?utm_source=tag-newest#item-8
+https://github.com/brettwooldridge/HikariCP#configuration-knobs-baby
+https://www.cnblogs.com/zhusf/p/10469666.html
+https://github.com/vert-x3/vertx-guide-for-java-devs
+https://zhuanlan.zhihu.com/p/33832486
