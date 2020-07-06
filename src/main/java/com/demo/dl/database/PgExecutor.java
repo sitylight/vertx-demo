@@ -1,10 +1,3 @@
-// Copyright (c) 2020 Cityline Limited. All rights reserved.
-// ============================================================================
-// CURRENT VERSION 2.0.27
-// ============================================================================
-// CHANGE LOG
-// 2.0.27 : 2020-02-29, derrick, creation
-// ============================================================================
 package com.demo.dl.database;
 
 import com.demo.dl.constant.AddressConstant;

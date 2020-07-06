@@ -1,10 +1,3 @@
-// Copyright (c) 2020 Cityline Limited. All rights reserved.
-// ============================================================================
-// CURRENT VERSION 2.0.27
-// ============================================================================
-// CHANGE LOG
-// 2.0.27 : 2020-02-18, derrick, creation
-// ============================================================================
 package com.demo.dl.engine;
 
 import io.vertx.core.AbstractVerticle;
